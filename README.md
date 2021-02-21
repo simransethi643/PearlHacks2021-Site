@@ -1,7 +1,7 @@
-# PearlHacks2021-Site
+# Nail This Hack
 This is a sample UI for our Pearl Hacks 2021 Submission!
 <!-- # PearlHacks2021Hi -->
-<h1>Nail This Hack</h1>
+
 <div>
 <button id='btn1' type="button" onclick="health()"> Click here if you want check see your health</button>
 
