@@ -1,4 +1,5 @@
-<h1> Nail This Hack </h1>
+<h1>Nail This Hack
+</h1>
 <p>This is a sample UI for our Pearl Hacks 2021 Submission!</p>
 <!-- # PearlHacks2021Hi -->
 
@@ -31,7 +32,8 @@ div.innerHTML += '<p style="float:left"> Your Health</p>';
 div.innerHTML += '<p> Result</p>';
 div.innerHTML += '<p style="float:left"> Your Health</p>';
 div.innerHTML += '< / >'; // result
-     div.innerHTML += '<img src="file://C:/Users/simra/OneDrive/Documents/Pearl Hacks 2021/image0.jpg" / >'; // Your Health
+     div.innerHTML += '<img src="file://C:/Users/simra/OneDrive/Documents/Pearl Hacks 2021/image 1.png" / >'; // Your Health
+     div.innerHTML += '<img src="file://C:/Users/simra/OneDrive/Documents/Pearl Hacks 2021/image 2.png" / >'; // Your Health
     }
 
 </script>
