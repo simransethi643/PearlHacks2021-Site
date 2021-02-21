@@ -1,5 +1,5 @@
-# Nail This Hack
-This is a sample UI for our Pearl Hacks 2021 Submission!
+<h1> Nail This Hack </h1>
+<p>This is a sample UI for our Pearl Hacks 2021 Submission!</p>
 <!-- # PearlHacks2021Hi -->
 
 <div>
